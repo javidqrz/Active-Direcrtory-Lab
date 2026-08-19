@@ -1,37 +1,101 @@
 # Active Directory Lab
 
-## Ziel
+## Über mich
 
-Aufbau einer Testumgebung für Active Directory.
+Bachelor of Computer Science
 
-## Umgebung
+Ehemaliger IT Support Engineer
+
+Derzeit Auszubildender zum Fachinformatiker für Systemintegration in Deutschland.
+
+## Ziel des Projekts
+
+Aufbau einer Active-Directory-Testumgebung, um praktische Erfahrungen mit Windows Server, Benutzerverwaltung, Gruppenrichtlinien und Netzwerkdiensten zu sammeln.
+
+## Verwendete Umgebung
 
 - VMware Workstation
-10
+
 - Windows Server 2025
 
-- Windows 11
+- Windows 11 Client
 
-## Umgesetzte Aufgaben
+## Bisher umgesetzte Aufgaben
 
-- Domain Controller erstellt
+### Active Directory
 
-- OU-Struktur aufgebaut
+- Active Directory Domain Services installiert
 
-- Benutzer erstellt
+- Server zum Domain Controller heraufgestuft
 
-- Sicherheitsgruppen erstellt
+- Eigene Testdomäne erstellt
 
-- Datei-Freigaben eingerichtet
+### Organisationsstruktur
 
-## Was habe ich gelernt?
+- OU Users
+
+- OU Groups
+
+- OU Computers
+
+- OU IT
+
+- OU HR
+
+- OU Finance
+
+- OU Sales
+
+### Benutzerverwaltung
+
+- Testbenutzer erstellt
+
+- Passwörter zurückgesetzt
+
+- Benutzerkonten entsperrt
+
+### Gruppenverwaltung
+
+- GG-IT
+
+- GG-HR
+
+- GG-Finance
+
+- GG-Sales
+
+- GG-Management
+
+### Dateidienste
+
+- Freigaben erstellt
+
+- Share Permissions konfiguriert
+
+- NTFS-Berechtigungen eingerichtet
+
+## Was ich gelernt habe
 
 - Grundlagen von Active Directory
 
 - Benutzer- und Gruppenverwaltung
 
-- NTFS-Berechtigungen
+- Berechtigungskonzepte
 
-- Freigaben und Zugriffssteuerung
+- Windows Server Administration
 
-`
+- Datei- und Zugriffsverwaltung
+
+## Nächste Schritte
+
+- Group Policy (GPO)
+
+- DNS
+
+- DHCP
+  
+- PowerShell
+  
+- Microsoft Entra ID
+  
+- Azure
