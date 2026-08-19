@@ -13,9 +13,7 @@ Aufbau einer Testumgebung für Active Directory.
 - Windows 11
 
 ## Umgesetzte Aufgaben
-14
- 
-15
+
 - Domain Controller erstellt
 
 - OU-Struktur aufgebaut
